@@ -6,8 +6,7 @@
 
 void sort(int *unsorted, int length)
 {
-    // Test code - Selection sort algorithm
-    /* int min;
+    int min;
        int mindex;
        for (int i = 0; i < length - 1; i++)
        {
@@ -23,5 +22,5 @@ void sort(int *unsorted, int length)
            }
 
            swap(unsorted, mindex, i);
-       } */
+       }
 }
